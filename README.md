@@ -13,10 +13,13 @@ Reads in real flight data (.uLog) and applies 2nd order reference model filter w
 Goal : Finding the right natural frequency value to generate a smooth-enough trajectory of the target
 
 ### 5_Follow_Me_behavior_simple_2D_animation.ipynb
-Demonstrates the Follow Me behavior of the Pull Request directly.
-Implements Jerk limited Orbit angle control & Adjustable follow angle setpoints
+![Script5_CircleTrajectory_2D.gif](./Media/Script5_CircleTrajectory_2D.gif)
 
-Goal : Showcasing how the PR's Follow logic works
+* Demonstrates the Follow Me behavior of the Pull Request directly.
+* Implements Jerk limited Orbit angle control & Adjustable follow angle setpoints
+
+![Script5_CircleTrajectory_AnglePlot.png](./Media/Script5_CircleTrajectory_AnglePlot.png)
+> Goal : Showcasing how the PR's Follow logic works
 
 ## uLog Files
 1. FollowTarget_FullRate_2022-03-03_10-55-16.ulg
